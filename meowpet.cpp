@@ -14,7 +14,7 @@ public:
                                   "Could really use a cigarette right meow"};
   std::string neutral_quotes[4] = {
       "Feeling ok ig", "Kinda Bored, gimme food meow",
-      "Shimmy shimmy yay shimmy yay shimmy ya, drank, swallalala",
+      "Can't wait till this shit is over",
       "did you watch the game last night? shit was crazy"};
   std::string satiated_quotes[4] = {"Feeling good!", "*purrs*",
                                     "*munch* *munch* *munch*",
