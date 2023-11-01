@@ -1,2 +1,0 @@
-# valderath
-cute lil kitty
