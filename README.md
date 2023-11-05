@@ -39,4 +39,7 @@ Duk: contribution to valderath's quotes.
 BlazikenH8r: contribution to valderath's quotes.
 moxd: contribution to valderath's quotes.
 
+## Logs:
+05/11/2023 -added play functionality, also added exit buttons to be able to leave certain areas
+
 
