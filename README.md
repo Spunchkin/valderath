@@ -41,5 +41,10 @@ moxd: contribution to valderath's quotes.
 
 ## Logs:
 05/11/2023 -added play functionality, also added exit buttons to be able to leave certain areas
+08/11/2023 -final update
+
+## Opinions
+im generally pretty new to c++ and dont code in it much, this program has some unused imports and other bad practices
+I will try my best to improve, this was a dumb project, but was really fun while it lasted, thanks for your attention!!
 
 
