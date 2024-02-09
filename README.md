@@ -6,8 +6,8 @@ VALDERATH THE DESTROYER!!!!!, aka cute kitty guy.
 
 
 ## How to run: 
-    g++ meowpet.cpp -o meowpet //to compile
-    ./meowpet //to run (in the same directory as the first step)
+    g++ meowpet.cpp -o meowpet
+    ./meowpet 
     
 
 
